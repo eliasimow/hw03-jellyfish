@@ -2,6 +2,10 @@
 
 https://github.com/user-attachments/assets/c4b51d01-4d01-4dad-8c88-1153282561e0
 
+Hello! Here's my jellyfish. I had fun with this project, especially the simulation. The threads are all made with some form of line and sweep, with pin constraints to keep them tied to the bell. 
+Noise is used to vary the bump texture of each leg. 
+
+
 ## Bell
 <img width="767" height="500" alt="image" src="https://github.com/user-attachments/assets/bca04f1e-ae45-41e5-9417-9db5fd972a15" />
 
